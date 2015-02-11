@@ -378,7 +378,6 @@ switch(_shop) do
 						["ToolKit",nil,250],
 						["muzzle_snds_L",nil,650],
 						["FirstAidKit",nil,150],
-						["Medikit",nil,500],
 						["MineDetector",nil,3000],
 						["B_UavTerminal",nil,2000],
 						["B_UAV_01_backpack_F",nil,20000],
